@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=ProtonUp-Qt
+Comment=Install and manage Wine and Proton compatibility tools.
+Exec=protonup-qt %U
+Icon=net.davidotek.pupgui2
+Terminal=false
+Type=Application
+Categories=Utility;Game;
+
