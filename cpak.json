@@ -4,7 +4,7 @@
   "name": "ProtonUp-Qt",
   "description": "Install and manage Wine and Proton compatibility tools.",
   "version": "2.15.1",
-  "image": "ghcr.io/containerpak/protonup-qt@sha256:52a28d3c20dc28f258a2b782c30e508db4b4d8f51d69fcfed118ba2371793a4e",
+  "image": "ghcr.io/containerpak/protonup-qt@sha256:109dfa63b898440cd028248e872748d1e7a8dbeb5feefcae8b63611f411772be",
   "binaries": [
     "/usr/bin/protonup-qt"
   ],
